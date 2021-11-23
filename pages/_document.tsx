@@ -5,7 +5,6 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>viisTrip App</title>
           <link
             href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300"
             rel="stylesheet"
